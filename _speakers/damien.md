@@ -1,6 +1,6 @@
 ---
 name: Damien Senger
-pic: https://pbs.twimg.com/profile_images/1029480793293377536/PvGHiTTT.jpg
+pic: /assets/speakers/damien-share.png
 live: true
 twitter: iamhiwelo
 github: hiwelo
